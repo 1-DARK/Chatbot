@@ -3,13 +3,11 @@ import './globals.css'
 const page = () => {
   return (
     <div>
-      hello
+      hello how are you 
     </div>
   )
 }
 
 export default page
-
-
 
 
